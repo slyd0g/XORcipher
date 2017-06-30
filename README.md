@@ -3,6 +3,6 @@
 
 Script will ask you to encrypt or decrypt.
 
-- Choosing encrypt will prompt you for a message and the OTP you'd like to use. The output a .pickle file.
+- Choosing encrypt will prompt you for a message and the OTP you'd like to use. The output is a .pickle file.
 
 - Choosing decrypt will prompt you for the name of the .pickle file and the key used to decrypt the message. The output is the plaintext.
