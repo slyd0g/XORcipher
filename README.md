@@ -1,5 +1,5 @@
-# Usagge:
-python xor_encrypt_master.py
+# Usage:
+# python xor_encrypt_master.py
 
 Script will ask you to encrypt or decrypt.
 
